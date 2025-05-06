@@ -1,5 +1,5 @@
 # In progress...
-https://github.com/Memirlan/ViT-vs-ConvNeXt/blob/main/meme.png
+![](https://github.com/Memirlan/ViT-vs-ConvNeXt/blob/main/meme.png)
 
 ViT Base 16 and ConvNeXt Base models are of different architectures types, yet their model and parameter sizes are very similar (~330 MB). Also, ConvNeXt was designed as a CNN model that achieves a transformer level performance.
 
